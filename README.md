@@ -10,8 +10,8 @@ My Profile : <a href="https://www.kaggle.com/rajat94">Rajat Agarwal</a>
 ## Dataset
 
 <ul>
-  <li href="https://fasttext.cc/docs/en/english-vectors.html">FastText</li>
-  <li href="https://www.kaggle.com/c/jigsaw-toxic-comment-classification-challenge/data">Dataset</li>
+  <li><a href="https://fasttext.cc/docs/en/english-vectors.html">FastText</a></li>
+  <li><a href="https://www.kaggle.com/c/jigsaw-toxic-comment-classification-challenge/data">Dataset</a></li>
   
 </ul>
 
